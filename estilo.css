@@ -1,0 +1,176 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: sans-serif;
+    text-decoration:none;
+}
+.secao-banner{
+    width:100%;
+    padding:120px 80px;
+    background-image:url(img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.secao-logo{
+    max-width:250px;
+    color:#3c184e;
+}
+.primeiro-paragrafo{
+    font-size:35px;
+    margin: 0 5px 0 0;
+}
+.logo{
+    width:30px;
+    margin-right:5px;
+}
+.segundo-paragrafo{
+    font-size:14px;
+    text-align:center;
+    margin:0;
+}
+.secao-fale-conosco{
+    max-width:1024px;
+    border-radius:10px;
+    padding:40px;
+    margin: 70px auto;
+    background-color:#ffffffc4;
+    box-shadow:0 8px 32px #1f26875e;
+}
+.secao-fale-conosco h1{
+    font-size:60px;
+    color:#3c184e;
+    text-align:center;
+    font-weight: 800;
+    margin: 0 40 0 0;
+}
+.secao-fale-conosco p{
+    width:200px;
+    padding:10px 25px;
+    margin:0 auto;
+    border-radius:10px;
+    background-color:#3c184e;
+    font-size:20px;
+    text-align:center;
+}
+.secao-fale-conosco a{
+    text-decoration:none;
+    color:white;
+}
+.secao-fale-conosco img{
+    width:20px;
+}
+.serviços{
+    width:100%;
+    padding:120px 80px;
+}
+.serviços h3{
+    font-size:36px;
+    color:#3c184e;
+    text-align:center;
+    margin:0 45px 0 0;
+}
+.lista{
+    max-width:800px;
+    margin:50px auto;
+    color:#3c184e;
+    font-family: 'Courier New', Courier, monospace;
+}
+.serviços ul{
+    font-size:20px;
+    margin:0 20px 0 0;
+}
+.serviços span{
+    font-weight: 700;
+    font-style:italic;
+}
+.galeria{
+    max-width:800px;
+    margin:0 auto;
+    text-align:center;
+}
+.galeria img{
+    border-radius:5px;
+    box-shadow:3px 6px 10px 6px #0000005c;
+}
+.redes-sociais{
+    width:100%;
+    padding:120px 80px;
+    background-color:#3c184e;
+    text-align:center;
+}
+.redes-sociais p{
+    max-width:800px;
+    margin:5px auto;
+    font-size:40px;
+    color:#fff;
+    text-align:center;
+}
+.redes-sociais span{
+    font-weight: 700;
+    font-style: italic;
+    text-decoration:none;
+}
+.redes-sociais-icone a{
+    text-decoration:none;
+    margin:50px auto;
+}
+.redes-sociais-icone img{    
+    width:50px;
+    height:50px;
+    margin:5px auto;
+}
+.marcas{
+    width:100%;
+    padding:120px 80px;
+    margin:50px auto;
+}
+.marcas h3{
+    font-size:36px;
+    color:#3c184e;
+    text-align:center;
+    margin: 0 45px 0 0;
+    text-decoration:none;
+}
+.marcas-imagem{
+    max-width:800px;
+    margin:0 auto;
+    text-align:center;
+}
+.marcas-imagem img{
+    width:148px;
+    height:148px;
+    margin:0 15px;
+}
+.onde-estamos{
+    width:100%;
+    padding:120px 80px;
+    text-align:center;  
+}
+.onde-estamos h3{
+    font-size:36px;
+    color:#3c184e;
+    text-align:center;
+    margin:0 45px 0 0;
+}
+.onde-estamos p{
+    font-size:20px;
+    color:#3c184e;
+    text-align:center;
+    margin:0 45px 0 0;
+}
+.onde-estamos iframe{
+    width:800px;
+    height:450px;
+}
+.rodape{
+    width:100%;
+    padding:10px;
+    background-color:#3c184e;
+}
+.rodape p{
+    color:#fff;
+    font-size:12px;
+    text-align:center;
+    text-decoration: none;
+}
